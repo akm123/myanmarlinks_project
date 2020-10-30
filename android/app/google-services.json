@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380448040137",
+    "firebase_url": "https://htaygs-542fe.firebaseio.com",
+    "project_id": "htaygs-542fe",
+    "storage_bucket": "htaygs-542fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380448040137:android:226dfaa946c71b48511918",
+        "android_client_info": {
+          "package_name": "com.example.htay_ayaung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380448040137-alre4ml6p0pluofngu52eakl4m4aim04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIYkx9VhSJOkjs2D3cX1xYfeS2ctQL5Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380448040137-alre4ml6p0pluofngu52eakl4m4aim04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
